@@ -52,6 +52,8 @@ breakdance terminology (from gideon's class)
 
 #### shoe-through
 
+#### kettle pot
+
 #### fish tail
 
 ### back rocks
