@@ -18,6 +18,8 @@ breakdance terminology (from gideon's class)
 
 #### buckshot
 
+#### peter pan
+
 ### go downs
 
 #### the thing where you jump up and drop to your knees
@@ -44,11 +46,19 @@ breakdance terminology (from gideon's class)
 
 #### CC
 
+#### banana CC
+
+#### zulu CC
+
 #### shoe-through
 
-#### fish hook
+#### fish tail
 
 ### back rocks
+
+#### back swipe
+
+#### dolphin
 
 ### power moves
 
