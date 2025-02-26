@@ -1,0 +1,10 @@
+.glossary-entry {
+  border: 1px black solid;
+  border-radius: 10px;
+  transition: 0.2s;
+
+}
+.glossary-entry:hover{
+  cursor: pointer;
+  background-color: #333;
+}
