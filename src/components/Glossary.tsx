@@ -7,8 +7,10 @@ const Glossary = () => {
   const [filterInput, setFilterInput] = useState("");
   let categorySeen: { [key: string]: number } = {}; // keep track of how many of each category displayed on filter
 
-  const filteredGlossary = GLOSSARY_ENTRIES.filter((entry) =>
-    entry.title.toLowerCase().includes(filterInput.toLowerCase())
+  const filteredGlossary = GLOSSARY_ENTRIES.filter(
+    (entry) =>
+      entry.title.toLowerCase().includes(filterInput.toLowerCase()) ||
+      entry.category.toLowerCase().includes(filterInput.toLowerCase())
   );
 
   return (
