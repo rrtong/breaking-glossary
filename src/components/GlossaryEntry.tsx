@@ -8,10 +8,10 @@ const GlossaryEntry = ({
   description: string;
 }) => {
   return (
-    <div className="glossary-entry">
+    <li className="glossary-entry">
       <h3>{title}</h3>
       <p>{description}</p>
-    </div>
+    </li>
   );
 };
 

@@ -56,7 +56,7 @@ breakdance terminology (from gideon's class)
 
 #### fish tail
 
-### back rocks
+### back rock
 
 #### back swipe
 
