@@ -2,7 +2,7 @@ export const GLOSSARY_ENTRIES = [
   {
     category: "top rock",
     title: "side step",
-    description: "step to the side",
+    description: "kick then step to the side",
   },
   {
     category: "top rock",
@@ -13,6 +13,11 @@ export const GLOSSARY_ENTRIES = [
     category: "top rock",
     title: "indian step",
     description: "desc",
+  },
+  {
+    category: "top rock",
+    title: "ghost",
+    description: "leg jump steps over hanging leg",
   },
   {
     category: "top rock",
@@ -41,6 +46,11 @@ export const GLOSSARY_ENTRIES = [
   },
   {
     category: "go downs",
+    title: "slide thing?",
+    description: "the thing where you move left while dropping and get back up",
+  },
+  {
+    category: "go downs",
     title: "knee drop",
     description: "desc",
   },
@@ -57,6 +67,11 @@ export const GLOSSARY_ENTRIES = [
   {
     category: "down rock",
     title: "6 step",
+    description: "desc",
+  },
+  {
+    category: "down rock",
+    title: "3 step",
     description: "desc",
   },
   {
@@ -91,6 +106,11 @@ export const GLOSSARY_ENTRIES = [
   },
   {
     category: "down rock",
+    title: "reverse coffee grinder",
+    description: "desc",
+  },
+  {
+    category: "down rock",
     title: "fish tail",
     description: "desc",
   },
@@ -102,6 +122,11 @@ export const GLOSSARY_ENTRIES = [
   {
     category: "back rock",
     title: "dolphin",
+    description: "desc",
+  },
+  {
+    category: "power moves",
+    title: "turtle/stab",
     description: "desc",
   },
   {
