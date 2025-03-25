@@ -35,19 +35,29 @@ export const GLOSSARY_ENTRIES = [
     description: "desc",
   },
   {
+    category: "top rock",
+    title: "charleston",
+    description: "also don't think this is breakdancing",
+  },
+  {
     category: "go downs",
     title: "knee squat?",
     description: "the thing where you jump up and drop to your knees",
   },
   {
     category: "go downs",
-    title: "knee scissor?",
+    title: "rummenigge",
     description: "the thing where you sweep and scissor your legs",
   },
   {
     category: "go downs",
     title: "slide thing?",
     description: "the thing where you move left while dropping and get back up",
+  },
+  {
+    category: "go downs",
+    title: "kick drop hook",
+    description: "kick, step, sweep, hook",
   },
   {
     category: "go downs",
@@ -60,9 +70,19 @@ export const GLOSSARY_ENTRIES = [
     description: "is this even breakdancing",
   },
   {
+    category: "go downs",
+    title: "fish tail",
+    description: "desc",
+  },
+  {
     category: "down rock",
     title: "hook",
     description: "desc",
+  },
+  {
+    category: "down rock",
+    title: "8 step",
+    description: "lots of knee-on-knee action",
   },
   {
     category: "down rock",
@@ -157,6 +177,16 @@ export const GLOSSARY_ENTRIES = [
   {
     category: "freezes",
     title: "baby freeze",
+    description: "desc",
+  },
+  {
+    category: "misc",
+    title: "rocking",
+    description: "desc",
+  },
+  {
+    category: "misc",
+    title: "burns",
     description: "desc",
   },
 ];
